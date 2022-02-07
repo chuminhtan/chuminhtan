@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi There, I’m Tan</h1>
-<p>Enthusiastic Web Developer with some experience in Progressive Web App Development, JavaScript/ES6, HTML/CSS, Java, Servlet/JSP, NodeJS,and Laravel.</p>
+<p>Enthusiastic Web Developer with some experience in Progressive Web App Development, JavaScript/ES6, HTML/CSS, Java, Servlet/JSP, NodeJS and Laravel.</p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chuminhtan&hide=contribs,prs,issues&show_icons=true&theme=radical)](https://github.com/chuminhtan)
 
