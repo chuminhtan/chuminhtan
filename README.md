@@ -41,12 +41,12 @@
 <h2 align="center">My Favorite Projects 💻</h2>
 <br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chuminhtan&repo=english-book-shop)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chuminhtan&repo=music-app)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chuminhtan&repo=quanlytrungtam)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chuminhtan&repo=to-do-app-api)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chuminhtan&repo=music-server)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chuminhtan&repo=do-an-web)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chuminhtan&repo=english-book-shop&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chuminhtan&repo=music-app&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chuminhtan&repo=quanlytrungtam&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chuminhtan&repo=to-do-app-api&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chuminhtan&repo=music-server&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chuminhtan&repo=do-an-web&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 </br>
