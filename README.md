@@ -41,12 +41,7 @@
 <h2 align="center">My Favorite Projects 💻</h2>
 <br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chuminhtan&repo=english-book-shop&theme=tokyonight)](https://github.com/chuminhtan/english-book-shop)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chuminhtan&repo=music-app&theme=tokyonight)](https://github.com/chuminhtan/music-app)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chuminhtan&repo=quanlytrungtam&theme=tokyonight)](https://github.com/chuminhtan/quanlytrungtam)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chuminhtan&repo=to-do-app-api&theme=tokyonight)](https://github.com/chuminhtan/to-do-app-api)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chuminhtan&repo=music-server&theme=tokyonight)](https://github.com/chuminhtan/music-server)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chuminhtan&repo=do-an-web&theme=tokyonight)](https://github.com/chuminhtan/do-an-web)
+
 
 
 </br>
