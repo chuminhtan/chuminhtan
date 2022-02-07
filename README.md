@@ -37,12 +37,5 @@
 ![Ubuntu](http://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
-
-<h2 align="center">My Favorite Projects 💻</h2>
-<br>
-
-
-
-
 </br>
 </br>
