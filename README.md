@@ -40,3 +40,26 @@
 
 </br>
 </br>
+
+<h2 align="center">My favorite projects 💻</h2>
+<br />
+<p align="center">
+  <img width="400" src="https://github.com/chuminhtan/english-book-shop/blob/main/blob/1.png" />
+  <img width="400" height="200" src="https://github.com/chuminhtan/music-app/blob/main/blob/11.png" />
+ <a href="https://github.com/chuminhtan/english-book-shop">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=chuminhtan&repo=english-book-shop&theme=tokyonight" />
+</a>
+  <a href="https://github.com/chuminhtan/music-app">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=chuminhtan&repo=music-app&theme=tokyonight" />
+</a>
+  <img width="400" height="200" src="https://github.com/chuminhtan/student-management/blob/master/blob/14.png" />
+  <img width="400" src="https://github.com/chuminhtan/to-do-app-api/blob/master/blob/1.png" />
+  <a href="https://github.com/chuminhtan/student-management">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=chuminhtan&repo=student-management&theme=tokyonight" />
+</a>
+<a href="https://github.com/chuminhtan/to-do-app-api">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=chuminhtan&repo=to-do-app-api&theme=tokyonight" />
+</a>
+</p>
+
+<br />
